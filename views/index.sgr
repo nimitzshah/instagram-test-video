@@ -27,3 +27,5 @@ extends(src='layout.sgr')
     p Customize your settings by editing the
       a(href="https://spike.readme.io/docs/appjs") app.js
       |  file or simply start by editing this view
+
+    .video: video(src='https://scontent-lga3-1.cdninstagram.com/t50.2886-16/14965142_193174341130798_330609325267484672_n.mp4' autoplay controls)
